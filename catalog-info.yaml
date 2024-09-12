@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: quarkus
+  description: A System for a quarkus app
+spec:
+  owner: group:default/backstage-admins
