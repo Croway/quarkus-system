@@ -16,6 +16,7 @@ spec:
         domain: croway
         system: quarkus
         component: quarkus-native
+        deployment: native
   destination:
     server: https://kubernetes.default.svc
     namespace: quarkus-build
