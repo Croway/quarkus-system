@@ -16,6 +16,7 @@ spec:
         domain: croway
         system: quarkus
         component: quarkus-jvm
+        deployment: jvm
   destination:
     server: https://kubernetes.default.svc
     namespace: quarkus-build
